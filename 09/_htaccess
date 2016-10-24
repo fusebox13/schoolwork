@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteBase /~dwilli11/CPS276/09/
+RewriteRule ^([^/.]+)$ index.php?action=$1
+RewriteRule ^(start)/(briggsmeyertest)/([^/.]*)$ index.php?name=$1
+RewriteRule ^(question)/(\d+)$ index.php

@@ -1,0 +1,22 @@
+.question-parent {
+    width: 100%;
+    clear: both;
+    border: 1px solid black;
+}
+
+.answers {
+    width: 100%;
+    margin-right: 20px;
+    clear: both;
+}
+
+
+.answer {
+    width: 100%;
+    clear:both;
+}
+
+.question {
+    color: red;
+    width: 100%;
+}

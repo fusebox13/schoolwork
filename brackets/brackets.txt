@@ -1,0 +1,64 @@
+1,Kentucky
+16,Hampton
+8,Cincinnati
+9,Purdue
+5,West Virginia
+12,Buffalo
+4,Maryland
+13,Valparaiso
+6,Butler
+11,Texas
+3,Notre Dame
+14,Northeastern
+7,Wichita State
+10,Indiana
+2,Kansas
+15,New Mexico State
+1,Wisconsin
+16,Coastal Carolina
+8,Oregon
+9,Oklahoma State
+5,Arkansas
+12,Wofford
+4,North Carolina
+13,Harvard
+6,Xavier
+11,Ole Miss
+3,Baylor
+14,Georgia State
+7,VCU
+10,Ohio State
+2,Arizona
+15,Texas Southern
+1,Villanova
+16,Lafayette
+8,NC State
+9,LSU
+5,Northern Iowa
+12,Wyoming
+4,Louisville
+13,UC Irvine
+6,Providence
+11,Dayton
+3,Oklahoma
+14,Albany
+7,Michigan State
+10,Georgia
+2,Virginia
+15,Belmont
+1,Duke
+16,Robert Morris
+8,San Diego State
+9,St.John's
+5,Utah
+12,Stephen F. Austin
+4,Georgetown
+13,Eastern Washington
+6,SMU
+11,UCLA
+3,Iowa State
+14,UAB
+7,Iowa
+10,Davidson
+2,Gonzaga
+15,North Dakota State

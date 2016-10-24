@@ -1,0 +1,162 @@
+a:link {
+    text-decoration: none;
+}
+
+#top-nav {
+    height: 15%;
+    position: relative;
+    border-bottom: 1px solid grey;
+    margin-bottom: 10px;
+}
+
+#login {
+    font-size: 80%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+#logo {
+    font-size: 400%;
+    position: absolute;
+    top:0px;
+    left:0px;
+    vertical-align: top;
+}
+#logoimg {
+    max-height: 100px;
+}
+#slogan {
+    position: absolute;
+    bottom: 60px;
+    left: 125px;
+}
+#plusimg {
+    max-height: 10px;
+}
+.login {
+    margin: 2px;
+}
+
+.comment-submit {
+    width: 100%;
+    
+}
+.comment-parent {
+    float: left;
+    width: 100%;
+}
+
+.comment-child {
+    
+}
+
+.comment-comment {
+    position: relative;
+    width: 20%;
+    padding: 15px;
+    border: 1px solid grey;
+    margin-bottom: 15px;
+    clear:both;
+}
+
+.comment-subbedby {
+    color:#3a87ad;
+    font-size: small;
+    position: absolute;
+    top: 1px;
+    left: 5px;
+    
+}
+.comment-actions {
+    font-size: small;
+    position: absolute;
+    bottom: -15px;
+    right: 0px;
+}
+#comment-header {
+    
+}
+#comment-header-title {
+    font-size: x-large;
+    
+}
+#comment-header-subtext {
+    font-size: small;
+    border: 1px solid lightgrey;
+    display: inline-block;
+    max-width: 30%;
+    clear: both;
+    margin-top: 5px;
+    margin-bottom:5px;
+    padding: 5px;
+    color: gray;
+}
+#comment-header-subbedby {
+    color: graytext;
+    font-size: small;
+}
+.sub-new {
+    margin-bottom: 5px;
+}
+
+.submission-form-parent {
+    border: 1px solid grey;
+    position: relative;
+    display: inline-block;
+    padding:5px;
+    margin-bottom: 10px;
+}
+
+#submission-exit-button {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    
+}
+.submission-parent {
+    position: relative;
+    width: 90%;
+    height: 100%;
+    
+}
+
+.sub-title {
+    font-size: x-large;
+    float: left;
+    width: 100%;
+    
+}
+.sub-submittedby {
+    color: graytext;
+    font-size: small;
+    clear: both;
+    width: 20%;
+  
+}
+.sub-actions {
+    position: relative;
+    font-size: small;
+    //clear:both;
+    float: left;
+    display: inline-block;
+}
+
+#sub-delete {
+    color: red;
+    font-size: small;
+    position: relative;
+    //padding-top: 5px;
+    padding-left:20px;
+    width: 10%;
+    float: left;
+}
+
+#welcome {
+}
+
+#newaccount {
+    position: relative;
+    top:-20px;
+    left:-20px;
+}
+

@@ -1,0 +1,46 @@
+.location {
+    
+}
+
+.results {
+    
+}
+.row {
+    width: 30%;
+    clear: both;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 5px;
+}
+.row-header {
+    position: relative;
+}
+
+.row-header-person {
+    float: left;
+    font-size: xx-large;
+ 
+}
+
+.row-header-distance {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.row-subject {
+    clear: both;
+    
+}
+.row-location {
+    clear: both;
+    
+}
+
+.zipform {
+    
+}
+.zipinput {
+    margin-bottom: 5px;
+}
+
+
